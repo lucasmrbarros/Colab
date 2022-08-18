@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Colab", "Colab.pyproj", "{6ABEC4D4-50AB-4BDB-8F89-3FBFAE98D94A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ABEC4D4-50AB-4BDB-8F89-3FBFAE98D94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABEC4D4-50AB-4BDB-8F89-3FBFAE98D94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A8B1FB-4AAF-42B1-AD0E-C284802C4EFC}
+	EndGlobalSection
+EndGlobal

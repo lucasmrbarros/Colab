@@ -1,0 +1,4 @@
+#Aula 1: https://colab.research.google.com/drive/1VatW8HukHyYareZbi4YXvTXlm3rW8iiv?usp=sharing
+#Aula 2: https://colab.research.google.com/drive/13nWikZ5nWm4SN4t5S20Cy1IuD6E5ybmN?usp=sharing#scrollTo=v4JrEO391o1s
+#ref1:https://medium.com/@urapython.community/perceptron-com-python-uma-introdu%C3%A7%C3%A3o-f19aaf9e9b64
+#ref2: https://machinelearningmastery.com/perceptron-algorithm-for-classification-in-python/
